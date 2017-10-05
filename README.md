@@ -2,6 +2,8 @@
 
 Angular 4 and d3 Chart demo
 
+<img src="/src/assets/demo.gif" alt="demo" width="400px">
+
 # Getting started
 
 1. Go to project folder and install dependencies:
