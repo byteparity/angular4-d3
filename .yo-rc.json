@@ -1,0 +1,17 @@
+{
+  "generator-ngx-rocket": {
+    "version": "2.2.0",
+    "props": {
+      "appName": "angular4-d3",
+      "target": [
+        "web"
+      ],
+      "pwa": false,
+      "ui": "bootstrap",
+      "auth": true,
+      "projectName": "angular-4-d-3",
+      "mobile": [],
+      "webview": []
+    }
+  }
+}
