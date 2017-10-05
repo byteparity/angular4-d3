@@ -1,8 +1,8 @@
-# angular4-d3
+# Angular4-d3
 
-Angular 4 and d3 Chart demo
+👨‍💻 📊 Angular4 and d3, nvd3 chart demo 📊✨
 
-<img src="/src/assets/demo.gif" alt="demo" width="400px">
+<img src="/src/assets/demo.gif" alt="demo" width="600px">
 
 # Getting started
 
